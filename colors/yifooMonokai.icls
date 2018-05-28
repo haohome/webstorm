@@ -1,11 +1,11 @@
-<scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+<scheme name="yifooMonokai" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-04-16T21:22:52</property>
+    <property name="created">2018-05-28T09:55:13</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-05-28T09:55:14</property>
-    <property name="originalScheme">Monokai</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-05-28T09:59:56</property>
+    <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
@@ -696,13 +696,12 @@
     <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -719,8 +718,7 @@
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">

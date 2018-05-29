@@ -4,7 +4,7 @@
     <property name="created">2018-05-28T09:55:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-05-28T11:06:46</property>
+    <property name="modified">2018-05-28T15:26:50</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -830,8 +830,7 @@
     </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
@@ -841,13 +840,12 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="fd971f" />
+        <option name="FOREGROUND" value="61afef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

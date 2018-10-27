@@ -4,10 +4,10 @@
     <property name="created">2018-05-28T09:55:13</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-05-29T14:10:34</property>
+    <property name="modified">2018-08-30T10:04:14</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -203,7 +203,7 @@
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c7c7ff" />
+        <option name="FOREGROUND" value="78ff" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
@@ -243,7 +243,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e4e4ff" />
+        <option name="FOREGROUND" value="4cadff" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -254,7 +254,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="754200" />
+        <option name="FOREGROUND" value="4c36f" />
       </value>
     </option>
     <option name="CSS.COMMENT">
